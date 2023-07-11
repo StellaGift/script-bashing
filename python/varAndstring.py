@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#python script using strings and variable example
+#python script using strings and variables example
 
 import time
 
