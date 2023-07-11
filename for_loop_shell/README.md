@@ -19,3 +19,5 @@ ile for7.sh - This is a for loop with an initialization in decrement of 2 script
 file for8.sh- Uses the random variable to generate passwords, and ends each generated numbers with an extension of value parameter of 0 - 50. sleeps for 0.1 upon each generation.
 
 file for9.sh Uses the random variable, together with an assigned variable to generate passwords containing an assigned char combined with the global variable int, and ends each generated numbers with an extension of value parameter of 0 - 50. sleeps for 0.2 upon each generation.
+
+file for10.sh - Uses double random variable, together with an assigned variable to generate passwords containing an assigned char combined with the global variable int, and ends each generated numbers with an extension of value parameter decrement of 2 in a range of 50 - 0. sleeps for 0.2 upon each generation.
