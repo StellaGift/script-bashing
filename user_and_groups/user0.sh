@@ -1,5 +1,5 @@
 #!/bin/bash
-#Welcome to GOOD COMPANY
+#Welcome to GOOD COMPANY!
 #This script creates a new user on the local system of the GOOD COMPANY
 #To be executed with a superuser status
 
